@@ -1,6 +1,7 @@
 # SQLServer Functions and Hacks
 
 <B>1. ASCII</B> - ASCII value of just the first character
+
 <B>2. CHAR</B> - Character corresponding to the ASCII value
 <B>3. CHARINDEX</B> - Index of the start of a substring in a string (Search start index can also be given to start searching from a specific position)
 <B>4. ‘+’</B> - Concat using + adds 2 strings together (Most basic - You have to even give the space explicitly if you need space in between strings)
