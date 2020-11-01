@@ -18,4 +18,4 @@
    ~ Can use more than one separator in CONCAT_WS by setting the first input string as empty
      Example: CONCAT_WS('', LastName, ', ', FirstName, ' (', MiddleName, ')' ) to return LastName, FirstName (MiddleName)
    
-<B>7. 
+<B>7. PERCENTILE_DISC</B> - https://docs.microsoft.com/en-us/sql/t-sql/functions/percentile-disc-transact-sql?view=sql-server-ver15
